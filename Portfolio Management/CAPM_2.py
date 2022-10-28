@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 31 18:01:00 2021
-
-@author: Teo Bee Guan
-"""
-
 import pandas as pd
 import yfinance as yf
 import statsmodels.api as sm

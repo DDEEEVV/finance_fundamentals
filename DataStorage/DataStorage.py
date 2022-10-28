@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 27 11:18:50 2021
-
-@author: Teo Bee Guan
-"""
-
 import psycopg2
 import yfinance as yf
 import numpy as np

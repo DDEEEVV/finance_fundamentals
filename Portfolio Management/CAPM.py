@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 29 17:22:28 2021
-
-@author: Teo Bee Guan
-"""
-
-
 import yfinance as yf
 
 tickers = ['AAPL', 'COG', 'GE', 'MSFT', 'NFLX', 'TSLA', '^GSPC']

@@ -49,5 +49,5 @@ plt.title('10-year Constant Maturity Yields on US Government Bonds')
 plt.show()
 
 from pandas_datareader import wb
-wb_data = wb.download(indicator='NY.GDP.PCAP.KD', country=['US', 'CA'], start=2016, end=2020)
+wb_data = wb.download(indicator='NY.GDP.PCAP.KD', country=['US', 'CA'], start=2016, end=2022)
 
